@@ -14,8 +14,40 @@
         .banner-image{
          width: 128px;
          height: 128px;
+         object-fit: cover;
       }
     </style>
+    <style>
+    .thumbnail {
+      width: 48px;
+      height: 48px;
+      border-radius: 48px;
+      object-fit: cover;
+    }
+  </style>
+  <style>
+  body {
+    background-color: #fef6e4;
+  }
+  
+  .name {
+    color: #001858;
+  }
+  
+  .social-icons a {
+    color: #001858;
+    text-decoration: none;
+  }
+  
+  .link {
+    background-color: #fef6e4;
+  }
+  
+  .link a {
+    color: #001858;
+    text-decoration: none;
+  }
+  </style>
   </head>
     <body>
       <div class="banner">
