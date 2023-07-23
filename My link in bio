@@ -1,93 +1,91 @@
-
 <!DOCTYPE html>
 <html>
-  <head> 
-    <div class="banner">
-      <img src="https://apis.mail.aol.com/ws/v3/mailboxes/@.id==VjN-8hkj7GRcDnlw0c4aLG-Nio_82fhBa-8wfV3N8E2OIhL9cs5rGkQ5ELAhkditd_cBC2q565EQb9Q_CLSwgSefAw/messages/@.id==APgywwEEAw7RZLrXcwd2KKA8w60/content/parts/@.id==2/thumbnail?appid=AolMailNorrinLaunch" alt="Montee's profile picture" class="banner-image">
-    </div>
+<head>
   <style>
-     body {
-    padding: top 40px;
-    padding-bottom: 40px;
-    background-color: #fef6e4;
-    display: flex;
-  justify-content: center;
-  }
+    body {
+      padding: 40px;
+      padding-bottom: 40px;
+      background-color: #fef6e4;
+      display: flex;
+      justify-content: center;
+    }
+
     .thumbnail {
       width: 48px;
       height: 48px;
       border-radius: 48px;
       object-fit: cover;
     }
-      .banner-image{
-         width: 128px;
-         height: 128px;
-         object-fit: cover;
-      }
-  .name {
-    color: #001858;
-    display: flex;
-  justify-content: center;
-  }
-  
-  .social-icons a {
-    color: #001858;
-    text-decoration: none;
-    display: flex;
-  justify-content: space-around;
-  }
-  
-  .link {
-    background-color: #fef6e4;
-    display: flex;
-  align-items: center;
-  padding: 5px;
-  }
-  
-  .link a {
-    color: #001858;
-    text-decoration: none;
-  text-align: center;
-  flex-grow: 1;
-  }
-  .items {
-    display: flex;
-    flex-direction: column;
-    gap: 30px;
-    max-width: 640px;
-    flex-grow: 1;
-  }
-  .banner {
-  display: flex;
-  justify-content: center;
-}
+
+    .banner-image {
+      width: 128px;
+      height: 128px;
+      object-fit: cover;
+    }
+
+    .name {
+      color: #001858;
+      display: flex;
+      justify-content: center;
+    }
+
+    .social-icons a {
+      color: #001858;
+      text-decoration: none;
+      display: flex;
+      justify-content: space-around;
+    }
+
+    .link {
+      background-color: #fef6e4;
+      display: flex;
+      align-items: center;
+      padding: 5px;
+    }
+
+    .link a {
+      color: #001858;
+      text-decoration: none;
+      flex-grow: 1;
+    }
+
+    .items {
+      display: flex;
+      flex-direction: column;
+      gap: 30px;
+      max-width: 640px;
+      flex-grow: 1;
+    }
+
+    .banner {
+      display: flex;
+      justify-content: center;
+    }
   </style>
-  
-  </head>
-    <body>
-      <div class="banner">
-        <img src="https://images.unsplash.com/photo-1562095241-8c6714fd4178?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=765&q=80" alt="rock formatons on the ocean">
-      </div>
+</head>
+<body>
+  <div class="banner">
+    <img src="https://images.unsplash.com/photo-1562095241-8c6714fd4178?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=765&q=80" alt="rock formations on the ocean">
+  </div>
 
-      <div class="name">
-       Montee' Ellis
-      </div>
+  <div class="name">
+    Montee' Ellis
+  </div>
 
-      <div class="social-icons">
-        <a href="https://github.com/Monteetechprep" target="_blank">
-         GitHub
-          </a>
+  <div class="social-icons">
+    <a href="https://github.com/Monteetechprep" target="_blank">
+      GitHub
+    </a>
 
-    <a href="www.linkedin.com/in/montee-ellis-2861aa177" target="_blank">
+    <a href="https://www.linkedin.com/in/montee-ellis-2861aa177" target="_blank">
       LinkedIn
     </a>
 
     <a href="https://www.instagram.com/Monteetamaja_/" target="_blank">
       Instagram
     </a>
-
   </div>
 
 </body>
-
 </html>
+
